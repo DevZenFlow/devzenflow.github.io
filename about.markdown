@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there! My name is Viktor and this is my blog. This blog exists to share my learnings in a wide range of topics that interest me: 
+- software and site reliability engineering
+- productivity and effectiveness
+- well being, health and longevity
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I strongly believe that the best way to learn something is to teach others, so I created this blog with two goals in mind: 
+- re-enforce my own understanding of various topics
+- share my learnings and experience with others to help make world a slightly better place
