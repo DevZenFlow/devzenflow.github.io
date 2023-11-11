@@ -1,17 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-08T22:25:30+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevZenFlow</title><subtitle>SRE, development, productivity, health and well being.</subtitle><entry><title type="html">AlphaGo</title><link href="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html" rel="alternate" type="text/html" title="AlphaGo" /><published>2023-11-08T22:24:48+00:00</published><updated>2023-11-08T22:24:48+00:00</updated><id>http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go</id><content type="html" xml:base="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-11T17:36:52+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevZenFlow</title><subtitle>SRE, development, productivity, health and well being.</subtitle><entry><title type="html">AlphaGo - Creative Approach to Winning in an Ancient Game of Go</title><link href="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html" rel="alternate" type="text/html" title="AlphaGo - Creative Approach to Winning in an Ancient Game of Go" /><published>2023-11-08T22:24:48+00:00</published><updated>2023-11-08T22:24:48+00:00</updated><id>http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go</id><content type="html" xml:base="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html">&lt;p&gt;I have recently watched an award-winning documentary called &lt;a href=&quot;https://www.youtube.com/watch?v=WXuK6gekU1Y&amp;amp;t=5s&quot;&gt;AlphaGo&lt;/a&gt;. It follows a team of Google’s DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol.&lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../docs/assets/images/alpha-go-vs-lee-sedol.jpeg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Five games were played with AlphaGo coming out victorious in four out of five matches - a shocking and rather upset result for the huge Go community.&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;The documentary left me with a range of emotions varying from amazement and excitement to sadness and anxiety. Moreover, it left me with three questions that kept bugging me:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;What is creativity?&lt;/li&gt;
+  &lt;li&gt;Is Alpha go creative?&lt;/li&gt;
+  &lt;li&gt;How do I feel about world’s best player losing to an AI model and how might this impact my hobbies and line of work in the future?&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;In this post I am going to explore these questions in some depth. I understand that whatever answers I will come up with, will be highly subjective, but it doesn’t mean I shouldn’t seek these answers. Let’s dive in.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;## Why Go?&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="AI" /><category term="machine-learning" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Many of us have heard of a game called Chess, so let’s start by comparing Chess to Go. A game of Chess has a smaller board and multiple distinct pieces with different mechanics and rules surrounding them. Go, on other hand, has a much larger board, only one distinct piece per sice playing but a significantly higher number of possible moves.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Chess&lt;/th&gt;
+      &lt;th&gt;Go&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Board Size&lt;/td&gt;
+      &lt;td&gt;8x8&lt;/td&gt;
+      &lt;td&gt;19x19&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Distinct pieces&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Approximation of moves&lt;/td&gt;
+      &lt;td&gt;10^50&lt;/td&gt;
+      &lt;td&gt;10^170&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 1: Comparison of Chess to Go&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s focus on the important part - possible number of moves and try visualising this difference.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../docs/assets/images/alpha-go-10to50and10to70.jpeg&quot; alt=&quot;Village and megapolis comparison&quot; /&gt;
+&lt;em&gt;Figure 2: Comparison of Chess and Go through village and megapolis&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="AI" /><category term="machine-learning" /><summary type="html">I have recently watched an award-winning documentary called AlphaGo. It follows a team of Google’s DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol.</summary></entry></feed>
