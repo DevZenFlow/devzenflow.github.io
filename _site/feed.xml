@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-11T17:36:52+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevZenFlow</title><subtitle>SRE, development, productivity, health and well being.</subtitle><entry><title type="html">AlphaGo - Creative Approach to Winning in an Ancient Game of Go</title><link href="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html" rel="alternate" type="text/html" title="AlphaGo - Creative Approach to Winning in an Ancient Game of Go" /><published>2023-11-08T22:24:48+00:00</published><updated>2023-11-08T22:24:48+00:00</updated><id>http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go</id><content type="html" xml:base="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html">&lt;p&gt;I have recently watched an award-winning documentary called &lt;a href=&quot;https://www.youtube.com/watch?v=WXuK6gekU1Y&amp;amp;t=5s&quot;&gt;AlphaGo&lt;/a&gt;. It follows a team of Google’s DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-11T18:00:07+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevZenFlow</title><subtitle>SRE, development, productivity, health and well being.</subtitle><entry><title type="html">AlphaGo - Creative Approach to Winning in an Ancient Game of Go</title><link href="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html" rel="alternate" type="text/html" title="AlphaGo - Creative Approach to Winning in an Ancient Game of Go" /><published>2023-11-08T22:24:48+00:00</published><updated>2023-11-08T22:24:48+00:00</updated><id>http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go</id><content type="html" xml:base="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html">&lt;p&gt;I have recently watched an award-winning documentary called &lt;a href=&quot;https://www.youtube.com/watch?v=WXuK6gekU1Y&amp;amp;t=5s&quot;&gt;AlphaGo&lt;/a&gt;. It follows a team of Google’s DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../docs/assets/images/alpha-go-vs-lee-sedol.jpeg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../docs/assets/images/alpha-go-vs-lee-sedol.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;em&gt;Figure 1: Lee Sedol playing against AlphaGo through a human proxy updating the physical board on behalf of AlphaGo&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Five games were played with AlphaGo coming out victorious in four out of five matches - a shocking and rather upset result for the huge Go community.&lt;/p&gt;
 
@@ -37,7 +38,7 @@
       &lt;td&gt;2&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Approximation of moves&lt;/td&gt;
+      &lt;td&gt;Approximation of possible board positions&lt;/td&gt;
       &lt;td&gt;10^50&lt;/td&gt;
       &lt;td&gt;10^170&lt;/td&gt;
     &lt;/tr&gt;
@@ -46,7 +47,22 @@
 
 &lt;p&gt;&lt;em&gt;Figure 1: Comparison of Chess to Go&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Let’s focus on the important part - possible number of moves and try visualising this difference.&lt;/p&gt;
+&lt;p&gt;Both games can be incredibly complex and the number of possible board positions can be unimaginable. Here’s some numbers for comparison:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;10^13 is an approximate number of cells in a human body&lt;/li&gt;
+  &lt;li&gt;10^27 is an approximate number of atoms in human body&lt;/li&gt;
+  &lt;li&gt;10^69 is an approximate number of atoms in the Milky Way galaxy&lt;/li&gt;
+  &lt;li&gt;10^170 is a theoretical number so large that we cannot comprehend it&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;../docs/assets/images/alpha-go-10to50and10to70.jpeg&quot; alt=&quot;Village and megapolis comparison&quot; /&gt;
-&lt;em&gt;Figure 2: Comparison of Chess and Go through village and megapolis&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="AI" /><category term="machine-learning" /><summary type="html">I have recently watched an award-winning documentary called AlphaGo. It follows a team of Google’s DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol.</summary></entry></feed>
+&lt;p&gt;The key take-away here is that Go can be an incredibly complex game and in order to master it you need a human player or a computer system capable of churning through all this complexity. It is therefore a problem worth solving in the domain of AI.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-creative-move-37&quot;&gt;The Creative Move 37&lt;/h2&gt;
+
+&lt;p&gt;AlphaGo made a move that media later named &lt;em&gt;Move 37&lt;/em&gt;. I am not going to pretend that I understand the mechanics of the move, but what I do know is that media and Go community first saw it as a mistake and then, shortly after, realised it was creative. Lee Sedol himself said that it was&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“really creative and beautiful.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This takes us to my first question. What is creativity?&lt;/p&gt;</content><author><name></name></author><category term="AI" /><category term="machine-learning" /><summary type="html">I have recently watched an award-winning documentary called AlphaGo. It follows a team of Google’s DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol.</summary></entry></feed>
