@@ -15,7 +15,7 @@ Five games were played with AlphaGo coming out victorious in four out of five ma
 The documentary left me with a range of emotions varying from amazement and excitement to sadness and anxiety. Moreover, it left me with three questions that kept bugging me:
 - What is creativity?
 - Is Alpha go creative?
-- How do I feel about world's best player losing to an AI model and how might this impact my hobbies and line of work in the future?
+- How do I feel about world's best Go player losing to an AI model and how might this impact my hobbies and line of work in the future?
 
 In this post I am going to explore these questions in some depth. I understand that whatever answers I will come up with, will be highly subjective, but it doesn't mean I shouldn't seek these answers. Let's dive in.
 
@@ -61,8 +61,20 @@ Let's try defining what creativity means before exploring the subject further. T
 _Figure 1: Examples of Creativity_
 
 
-All of the above are creative according to our definition. Assuming we are in agreement here, then we can suggest that creativity doesn't have to be useful, unique, good or bad. 
+All of the above are creative according to our definition. Assuming we are in agreement here, then we can suggest that creativity doesn't have to be useful, unique, good. 
 
-How about Darwinism? An evolution of species through natural selection. Is that creative too? If it is, then surely everything that stems from it is also by default creative?
+How about Darwinism? An evolution of species through natural selection. Is that creative too? If it is, then surely everything that stems from it is also by default creative? I think Darwinism is a great example of creativity and therefore I would like to revise the above satement. 
 
-Why do we care about creativity? 
+```creativity doesn't have to be useful, unique, good or owned by humans```
+
+## Creative Duopoly
+
+This might be a tough pill to swallow for many (especially Lee Sedol), but I think this is exactly why `Move 37` was dubbed as creative. We (humans) got used to being on top of both the food chain *and* creativity ladder. With the rise of AI we'll have to accept the fact that we no longer have a monopoly on creativity and the AI will excell in creativity far beyond our current capabilities. 
+
+## Reflections
+
+I wrote this post because I couldn't explain how I felt about Lee Sedol losing to AI model. I also didn't know what to think about impact of AI on my line work and my hobbies. 
+
+Lee Sedol went through a "baptism by fire". His whole world got turned upside down within two hours and he did incredibly well not giving up and embracing the challenge. My view is that we should live our lives to the fullest and get to the end full of wisdom and covered with life scars. Therefore I hope he sees this experience as both a blessing and a curse from which he grows as person.
+
+What about impact on my line of work and my hobbies? This was a massive wake up call for me. I would hate to find myself in Lee Sedol position, suddenly realising that my skill is no longer unique or in demand and can now be replaced by AI model. Upon realising this I have embraced AI fully and I am excited about what the future holds. 
