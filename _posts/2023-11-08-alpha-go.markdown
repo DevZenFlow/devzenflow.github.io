@@ -10,7 +10,7 @@ I have recently watched an award-winning documentary called [AlphaGo](https://ww
 ![Alt text](../docs/assets/images/alpha-go-vs-lee-sedol.jpeg)
 <center><b>Figure 1: Lee Sedol playing against AlphaGo through a human proxy updating the physical board on behalf of AlphaGo</b></center>
 
-</br>
+
 
 Five games were played with AlphaGo coming out victorious in four out of five matches - a shocking and rather upset result for the huge Go community. 
 
@@ -37,8 +37,9 @@ Many of us have heard of a game called Chess, so let's start by comparing Chess 
 
 
 </center>
+
 <center><b>Figure 2: Comparison of Chess to Go</b></center>
-</br>
+
 
 Both games can be incredibly complex and the number of possible board positions can be unimaginable. Here's some numbers for comparison: 
 - 10^13 is an approximate number of cells in a human body
@@ -67,7 +68,7 @@ Would you say that the following are examples of creativity?
 
 ![Alt text](../docs/assets/images/creativity-examples.jpeg)
 <center><b>Figure 3: Examples of Creativity</b></center>
-</br>
+
 
 
 All of the above are creative according to our definition. Assuming we are in agreement here, then we can suggest that creativity doesn't have to be useful, unique, or good.
