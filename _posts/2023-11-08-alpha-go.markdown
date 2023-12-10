@@ -7,12 +7,12 @@ categories: AI machine-learning
 
 I have recently watched an award-winning documentary called [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&t=5s). It follows a team of Google's DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol. If you haven't seen the documentary, I highly recommend watching it as it's both incredibly interesting and insightful. 
 
-![Alt text](../docs/assets/images/alpha-go-vs-lee-sedol.jpeg)
+![Lee Sedol playing against AlphaGo through a human proxy updating the physical board on behalf of AlphaGo](/docs/assets/images/alpha-go-vs-lee-sedol.jpeg)
 <center><b>Figure 1: Lee Sedol playing against AlphaGo through a human proxy updating the physical board on behalf of AlphaGo</b></center>
 
 
 
-Five games were played with AlphaGo coming out victorious in four out of five matches - a shocking and rather upset result for the huge Go community. 
+Five games were played with AlphaGo coming out victorious in four out of five matches - a shocking and rather upsetting result for the huge Go community. 
 
 The documentary left me with a range of emotions varying from amazement and excitement to sadness and anxiety. Moreover, it left me with three questions that kept bugging me:
 - What is creativity?
@@ -66,7 +66,7 @@ Would you say that the following are examples of creativity?
 - A gardener arranging a colourful flower bed in a memory of a loved one
 - Army general devising a new battle strategy to gain advantage over their enemy
 
-![Alt text](../docs/assets/images/creativity-examples.jpeg)
+![Figure 3: Examples of Creativity](/docs/assets/images/creativity-examples.jpeg)
 <center><b>Figure 3: Examples of Creativity</b></center>
 
 
