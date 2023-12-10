@@ -5,7 +5,7 @@ date:   2023-11-08 22:24:48 +0000
 categories: AI machine-learning
 ---
 
-I have recently watched an award-winning documentary called [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&t=5s). It follows a team of Google's DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol. 
+I have recently watched an award-winning documentary called [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&t=5s). It follows a team of Google's DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol. If you haven't seen the documentary, I highly recommend watching it as it's both incredibly interesting and insightful. 
 
 ![Alt text](../docs/assets/images/alpha-go-vs-lee-sedol.jpeg)
 _Figure 1: Lee Sedol playing against AlphaGo through a human proxy updating the physical board on behalf of AlphaGo_
