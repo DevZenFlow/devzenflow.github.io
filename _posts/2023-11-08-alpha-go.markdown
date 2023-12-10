@@ -8,7 +8,9 @@ categories: AI machine-learning
 I have recently watched an award-winning documentary called [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&t=5s). It follows a team of Google's DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol. If you haven't seen the documentary, I highly recommend watching it as it's both incredibly interesting and insightful. 
 
 ![Alt text](../docs/assets/images/alpha-go-vs-lee-sedol.jpeg)
-_Figure 1: Lee Sedol playing against AlphaGo through a human proxy updating the physical board on behalf of AlphaGo_
+<center><b>Figure 1: Lee Sedol playing against AlphaGo through a human proxy updating the physical board on behalf of AlphaGo</b></center>
+
+</br>
 
 Five games were played with AlphaGo coming out victorious in four out of five matches - a shocking and rather upset result for the huge Go community. 
 
@@ -19,9 +21,13 @@ The documentary left me with a range of emotions varying from amazement and exci
 
 In this post I am going to explore these questions in some depth. I understand that whatever answers I will come up with, will be highly subjective, but it doesn't mean I shouldn't seek these answers. Let's dive in.
 
-## Why Go? 
+
+## Why Go? 
+
 
 Many of us have heard of a game called Chess, so let's start by comparing Chess to Go. A game of Chess has a smaller board and multiple distinct pieces with different mechanics and rules surrounding them. Go, on other hand, has a much larger board, only one distinct piece per sice playing but a significantly higher number of possible moves. 
+
+<center>
 
 |  | Chess | Go |
 | -------- | -------- | -------- |
@@ -29,7 +35,10 @@ Many of us have heard of a game called Chess, so let's start by comparing Chess 
 | Distinct pieces | 6 | 2 |
 | Approximation of possible board positions | 10^50 | 10^170 |
 
-_Figure 1: Comparison of Chess to Go_
+
+</center>
+<center><b>Figure 2: Comparison of Chess to Go</b></center>
+</br>
 
 Both games can be incredibly complex and the number of possible board positions can be unimaginable. Here's some numbers for comparison: 
 - 10^13 is an approximate number of cells in a human body
@@ -41,10 +50,7 @@ The key take-away here is that Go can be an incredibly complex game and in order
 
 ## The Creative Move 37
 
-AlphaGo made a move that media later named _Move 37_. I am not going to pretend that I understand the mechanics of the move, but what I do know is that media and Go community first saw it as a mistake and then, shortly after, realised it was creative. Lee Sedol himself said that it was 
-
-> "really creative and beautiful." 
-
+AlphaGo made a move that media later named _Move 37_. I am not going to pretend that I understand the mechanics of the move, but what I do know is that media and Go community first saw it as a mistake and then, shortly after, realised it was creative. Lee Sedol himself said that it was "really creative and beautiful". 
 This takes us to my first question. 
 
 ## What is Creativity?
@@ -60,18 +66,19 @@ Would you say that the following are examples of creativity?
 - Army general devising a new battle strategy to gain advantage over their enemy
 
 ![Alt text](../docs/assets/images/creativity-examples.jpeg)
-_Figure 1: Examples of Creativity_
+<center><b>Figure 3: Examples of Creativity</b></center>
+</br>
 
 
 All of the above are creative according to our definition. Assuming we are in agreement here, then we can suggest that creativity doesn't have to be useful, unique, or good.
 
 How about Darwinism? The evolution of species through natural selection. Is that creative too? If it is, then surely everything that stems from it is also by default creative? I think Darwinism is a great example of creativity, and therefore I would like to revise the above statement.
 
-creativity doesn't have to be useful, unique, good or *owned by humans*
+Creativity doesn't have to be useful, unique, good or **owned by humans**
 
 ## Creative Duopoly
 
-This might be a tough pill to swallow for many (especially Lee Sedol), but I think this is exactly why Move 37 was dubbed as creative. We (humans) got used to being on top of both the food chain and the creativity ladder. With the rise of AI, we'll have to accept the fact that we no longer have a monopoly on creativity and that AI will excel in creativity far beyond our current capabilities.
+This might be a tough pill to swallow for many (especially Lee Sedol), but I think this is exactly why `Move 37` was dubbed as creative. We, humans, got used to being on top of both the food chain and the creativity ladder. With the rise of AI, we will have to accept the fact that we no longer have a monopoly on creativity and that AI will excel in creativity far beyond our current capabilities.
 
 
 ## Reflections
