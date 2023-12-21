@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Elon Musk by Walter Isaacson - What Did I Learn?"
+date:   2023-12-21 10:26:00 +0000
+categories: book-reviews
+---
+
+I just finished reading Elon Must autobiography written by Walter Isaacson - the author of Steve Jobs autobiography that I have also read and thoroughly enjoyed a few years ago. I am not going to recap his lifestory in this post, but I will go over what I found to be most interesting.
+
+## Reality Distortion Field
+
+Elon "suffers" from what some people refer to as reality distortion field. He sets what many perceive to be totally unrealistic deadlines and targets. Surprisingly, these targets often create an optimal amount of pressure where people come together and and meet what previously seemed to be impossible. For example, relocating Twitter servers from one data centre to another within days as opposed to six months, thus saving millions in costs.
+
+## Requirements Origin
+
+He continiously questions the origin of requirements to understand why they exist and what purpose they serve. It's not enough of an answer to say that the requirement comes from a legal or infosec department. 
+
+You need to reach out to the person who made the requirement, talk to them and then decide whether that requirement makes sense or not. Without questioning the norms we risk becoming much slower, getting bogged down in unneccesary checks and controls instead of innovating and moving forward. 
+
+## Mission Statement
+
+His decisions are largely driven by his overarching mission. He's running six companies all of which directly contribute towards his ultimate goal - become multiplanetary species by going to Mars. 
+
+Why is it important to have a very clear mission statement? Because it helps you allocate your time and resources on what's most important. 
+
+## Delete, Delete, Delete 
+It's relatively easy to build something complex and over-engineered. Usually, the higher the complexity the higher is the cost of build and maintenance. It's much more difficult to build a solution that is both elegant and effective. 
+
+When faced with something incredibly expensive and complex, Elon questions all the norms and starts to delete components until he deleted so much that some need to be introduced back in. He refers to this approach as "algorithm" and he successfully applied it at SpaceX and Tesla. 
+
+## Fail Fast
+
+Failure is where most learning takes place. Therefore, failure is good but as long as you can learn from it. Companies that are too risk averse and never fail end up being too slow and ineffective in the long term. This is a core principle of LEAN startup, yet many companies fail to adopt it and lag behind those that do. Some see a rocket blow up and call it a complete failure. Elon sees rocket blow up and calls it "rapid unscheduled disassembly" with lots of insight to learn from. 
+
+## Hire and Keep 10x Engineers
+
+Elon and his team let go of 90% of engineers by relying on experience and judgement of their hardcore Tesla and SpaceX teams who have been with him for many years. Tesla AI (which is arguably a much more difficult problem to solve than a microblogging platform) only had a team of 150 engineers working on it when Twitter had a team in excess of 2000+ engineers.
+
+If you want to be innovative and move fast, you must hire the best talent you can get. Unfortunately, many companies fail to accept the fact that it's worth paying somebody a double of market rate as their productivity will be ten times that of an average engineer. 
