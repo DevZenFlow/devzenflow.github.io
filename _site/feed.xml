@@ -1,20 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-11T18:00:07+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevZenFlow</title><subtitle>SRE, development, productivity, health and well being.</subtitle><entry><title type="html">AlphaGo - Creative Approach to Winning in an Ancient Game of Go</title><link href="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html" rel="alternate" type="text/html" title="AlphaGo - Creative Approach to Winning in an Ancient Game of Go" /><published>2023-11-08T22:24:48+00:00</published><updated>2023-11-08T22:24:48+00:00</updated><id>http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go</id><content type="html" xml:base="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html">&lt;p&gt;I have recently watched an award-winning documentary called &lt;a href=&quot;https://www.youtube.com/watch?v=WXuK6gekU1Y&amp;amp;t=5s&quot;&gt;AlphaGo&lt;/a&gt;. It follows a team of Google’s DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-21T11:36:07+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevZenFlow</title><subtitle>SRE, development, productivity, health and well being.</subtitle><entry><title type="html">Elon Musk by Walter Isaacson - What Did I Learn?</title><link href="http://localhost:4000/book-reviews/2023/12/21/elon_musk.html" rel="alternate" type="text/html" title="Elon Musk by Walter Isaacson - What Did I Learn?" /><published>2023-12-21T10:26:00+00:00</published><updated>2023-12-21T10:26:00+00:00</updated><id>http://localhost:4000/book-reviews/2023/12/21/elon_musk</id><content type="html" xml:base="http://localhost:4000/book-reviews/2023/12/21/elon_musk.html">&lt;p&gt;I just finished reading Elon Must autobiography written by Walter Isaacson - the author of Steve Jobs autobiography that I have also read and thoroughly enjoyed a few years ago. I am not going to recap his lifestory in this post, but I will go over what I found to be most interesting.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../docs/assets/images/alpha-go-vs-lee-sedol.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
-&lt;em&gt;Figure 1: Lee Sedol playing against AlphaGo through a human proxy updating the physical board on behalf of AlphaGo&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;reality-distortion-field&quot;&gt;Reality Distortion Field&lt;/h2&gt;
 
-&lt;p&gt;Five games were played with AlphaGo coming out victorious in four out of five matches - a shocking and rather upset result for the huge Go community.&lt;/p&gt;
+&lt;p&gt;Elon “suffers” from what some people refer to as reality distortion field. He sets what many perceive to be totally unrealistic deadlines and targets. Surprisingly, these targets often create an optimal amount of pressure where people come together and and meet what previously seemed to be impossible. For example, relocating Twitter servers from one data centre to another within days as opposed to six months, thus saving millions in costs.&lt;/p&gt;
+
+&lt;h2 id=&quot;requirements-origin&quot;&gt;Requirements Origin&lt;/h2&gt;
+
+&lt;p&gt;He continiously questions the origin of requirements to understand why they exist and what purpose they serve. It’s not enough of an answer to say that the requirement comes from a legal or infosec department.&lt;/p&gt;
+
+&lt;p&gt;You need to reach out to the person who made the requirement, talk to them and then decide whether that requirement makes sense or not. Without questioning the norms we risk becoming much slower, getting bogged down in unneccesary checks and controls instead of innovating and moving forward.&lt;/p&gt;
+
+&lt;h2 id=&quot;mission-statement&quot;&gt;Mission Statement&lt;/h2&gt;
+
+&lt;p&gt;His decisions are largely driven by his overarching mission. He’s running six companies all of which directly contribute towards his ultimate goal - become multiplanetary species by going to Mars.&lt;/p&gt;
+
+&lt;p&gt;Why is it important to have a very clear mission statement? Because it helps you allocate your time and resources on what’s most important.&lt;/p&gt;
+
+&lt;h2 id=&quot;delete-delete-delete&quot;&gt;Delete, Delete, Delete&lt;/h2&gt;
+&lt;p&gt;It’s relatively easy to build something complex and over-engineered. Usually, the higher the complexity the higher is the cost of build and maintenance. It’s much more difficult to build a solution that is both elegant and effective.&lt;/p&gt;
+
+&lt;p&gt;When faced with something incredibly expensive and complex, Elon questions all the norms and starts to delete components until he deleted so much that some need to be introduced back in. He refers to this approach as “algorithm” and he successfully applied it at SpaceX and Tesla.&lt;/p&gt;
+
+&lt;h2 id=&quot;fail-fast&quot;&gt;Fail Fast&lt;/h2&gt;
+
+&lt;p&gt;Failure is where most learning takes place. Therefore, failure is good but as long as you can learn from it. Companies that are too risk averse and never fail end up being too slow and ineffective in the long term. This is a core principle of LEAN startup, yet many companies fail to adopt it and lag behind those that do. Some see a rocket blow up and call it a complete failure. Elon sees rocket blow up and calls it “rapid unscheduled disassembly” with lots of insight to learn from.&lt;/p&gt;
+
+&lt;h2 id=&quot;hire-and-keep-10x-engineers&quot;&gt;Hire and Keep 10x Engineers&lt;/h2&gt;
+
+&lt;p&gt;Elon and his team let go of 90% of engineers by relying on experience and judgement of their hardcore Tesla and SpaceX teams who have been with him for many years. Tesla AI (which is arguably a much more difficult problem to solve than a microblogging platform) only had a team of 150 engineers working on it when Twitter had a team in excess of 2000+ engineers.&lt;/p&gt;
+
+&lt;p&gt;If you want to be innovative and move fast, you must hire the best talent you can get. Unfortunately, many companies fail to accept the fact that it’s worth paying somebody a double of market rate as their productivity will be ten times that of an average engineer.&lt;/p&gt;</content><author><name></name></author><category term="book-reviews" /><summary type="html">I just finished reading Elon Must autobiography written by Walter Isaacson - the author of Steve Jobs autobiography that I have also read and thoroughly enjoyed a few years ago. I am not going to recap his lifestory in this post, but I will go over what I found to be most interesting.</summary></entry><entry><title type="html">AlphaGo - Creative Approach to Winning in an Ancient Game of Go</title><link href="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html" rel="alternate" type="text/html" title="AlphaGo - Creative Approach to Winning in an Ancient Game of Go" /><published>2023-11-08T22:24:48+00:00</published><updated>2023-11-08T22:24:48+00:00</updated><id>http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go</id><content type="html" xml:base="http://localhost:4000/ai/machine-learning/2023/11/08/alpha-go.html">&lt;p&gt;I have recently watched an award-winning documentary called &lt;a href=&quot;https://www.youtube.com/watch?v=WXuK6gekU1Y&amp;amp;t=5s&quot;&gt;AlphaGo&lt;/a&gt;. It follows a team of Google’s DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol. If you haven’t seen the documentary, I highly recommend watching it as it’s both incredibly interesting and insightful.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/docs/assets/images/alpha-go-vs-lee-sedol.jpeg&quot; alt=&quot;Lee Sedol playing against AlphaGo through a human proxy updating the physical board on behalf of AlphaGo&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;&lt;b&gt;Figure 1: Lee Sedol playing against AlphaGo through a human proxy updating the physical board on behalf of AlphaGo&lt;/b&gt;&lt;/center&gt;
+
+&lt;p&gt;Five games were played with AlphaGo coming out victorious in four out of five matches - a shocking and rather upsetting result for the huge Go community.&lt;/p&gt;
 
 &lt;p&gt;The documentary left me with a range of emotions varying from amazement and excitement to sadness and anxiety. Moreover, it left me with three questions that kept bugging me:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;What is creativity?&lt;/li&gt;
   &lt;li&gt;Is Alpha go creative?&lt;/li&gt;
-  &lt;li&gt;How do I feel about world’s best player losing to an AI model and how might this impact my hobbies and line of work in the future?&lt;/li&gt;
+  &lt;li&gt;How do I feel about world’s best Go player losing to an AI model and how might this impact my hobbies and line of work in the future?&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;In this post I am going to explore these questions in some depth. I understand that whatever answers I will come up with, will be highly subjective, but it doesn’t mean I shouldn’t seek these answers. Let’s dive in.&lt;/p&gt;
 
-&lt;p&gt;## Why Go?&lt;/p&gt;
+&lt;h2 id=&quot;why-go&quot;&gt;Why Go?&lt;/h2&gt;
 
 &lt;p&gt;Many of us have heard of a game called Chess, so let’s start by comparing Chess to Go. A game of Chess has a smaller board and multiple distinct pieces with different mechanics and rules surrounding them. Go, on other hand, has a much larger board, only one distinct piece per sice playing but a significantly higher number of possible moves.&lt;/p&gt;
 
@@ -45,7 +76,8 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 1: Comparison of Chess to Go&lt;/em&gt;&lt;/p&gt;
+&lt;center&gt;&lt;b&gt;Figure 2: Comparison of Chess to Go&lt;/b&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Both games can be incredibly complex and the number of possible board positions can be unimaginable. Here’s some numbers for comparison:&lt;/p&gt;
 &lt;ul&gt;
@@ -59,10 +91,46 @@
 
 &lt;h2 id=&quot;the-creative-move-37&quot;&gt;The Creative Move 37&lt;/h2&gt;
 
-&lt;p&gt;AlphaGo made a move that media later named &lt;em&gt;Move 37&lt;/em&gt;. I am not going to pretend that I understand the mechanics of the move, but what I do know is that media and Go community first saw it as a mistake and then, shortly after, realised it was creative. Lee Sedol himself said that it was&lt;/p&gt;
+&lt;p&gt;AlphaGo made a move that media later named &lt;em&gt;Move 37&lt;/em&gt;. I am not going to pretend that I understand the mechanics of the move, but what I do know is that media and Go community first saw it as a mistake and then, shortly after, realised it was creative. Lee Sedol himself said that it was “really creative and beautiful”. 
+This takes us to my first question.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“really creative and beautiful.”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;what-is-creativity&quot;&gt;What is Creativity?&lt;/h2&gt;
 
-&lt;p&gt;This takes us to my first question. What is creativity?&lt;/p&gt;</content><author><name></name></author><category term="AI" /><category term="machine-learning" /><summary type="html">I have recently watched an award-winning documentary called AlphaGo. It follows a team of Google’s DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol.</summary></entry></feed>
+&lt;p&gt;Let’s try defining what creativity means before exploring the subject further. The word stems from the Latin &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;creare&lt;/code&gt;, which means to create or make.&lt;/p&gt;
+
+&lt;p&gt;Would you say that the following are examples of creativity?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A child drawing lines and shapes with a marker pen on a wall&lt;/li&gt;
+  &lt;li&gt;A cook experimenting with new flavours in a dish&lt;/li&gt;
+  &lt;li&gt;A musician composing a new melody on the piano&lt;/li&gt;
+  &lt;li&gt;A gardener arranging a colourful flower bed in a memory of a loved one&lt;/li&gt;
+  &lt;li&gt;Army general devising a new battle strategy to gain advantage over their enemy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/docs/assets/images/creativity-examples.jpeg&quot; alt=&quot;Figure 3: Examples of Creativity&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;&lt;b&gt;Figure 3: Examples of Creativity&lt;/b&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;All of the above are creative according to our definition. Assuming we are in agreement here, then we can suggest that creativity doesn’t have to be useful, unique, or good.&lt;/p&gt;
+
+&lt;p&gt;How about Darwinism? The evolution of species through natural selection. Is that creative too? If it is, then surely everything that stems from it is also by default creative? I think Darwinism is a great example of creativity, and therefore I would like to revise the above statement.&lt;/p&gt;
+
+&lt;p&gt;Creativity doesn’t have to be useful, unique, good or &lt;strong&gt;owned by humans&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;creative-duopoly&quot;&gt;Creative Duopoly&lt;/h2&gt;
+
+&lt;p&gt;This might be a tough pill to swallow for many (especially Lee Sedol), but I think this is exactly why &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Move 37&lt;/code&gt; was dubbed as creative. We, humans, got used to being on top of both the food chain and the creativity ladder. With the rise of AI, we will have to accept the fact that we no longer have a monopoly on creativity and that AI will excel in creativity far beyond our current capabilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;p&gt;I wrote this post because I couldn’t explain how I felt about Lee Sedol losing to an AI model. I also didn’t know what to think about the impact of AI on my line of work and my hobbies.&lt;/p&gt;
+
+&lt;p&gt;Lee Sedol went through a “baptism by fire.” His whole world got turned upside down within two hours, and he did incredibly well not giving up and embracing the challenge. My view is that we should live our lives to the fullest and get to the end full of wisdom and covered with scars of rich and full life. Therefore, I hope he sees this experience as both a blessing and a curse from which he grows as a person.&lt;/p&gt;
+
+&lt;p&gt;What about the impact on my line of work and my hobbies? This was a massive wake-up call for me. I would hate to find myself in Lee Sedol’s position, suddenly realizing that my skill is no longer unique or in demand and can now be replaced by an AI model. Upon realizing this, I have embraced AI fully and am excited about what the future holds.&lt;/p&gt;
+
+&lt;p&gt;How about hobbies? I do my hobbies because I love the learning process and the state of flow - not the result, so I’m not at all worried about AI and how it might impact my hobbies. If anything, I might ask it to help me compose new music mixing styles of Ludovico Einaudi and Hans Zimmer.&lt;/p&gt;</content><author><name></name></author><category term="AI" /><category term="machine-learning" /><summary type="html">I have recently watched an award-winning documentary called AlphaGo. It follows a team of Google’s DeepMind engineers who built a system to compete in an ancient game of Go. The documentary follows the DeepMind team as their AI model competes against, at the time, world Go champion - Lee Sedol. If you haven’t seen the documentary, I highly recommend watching it as it’s both incredibly interesting and insightful.</summary></entry></feed>
