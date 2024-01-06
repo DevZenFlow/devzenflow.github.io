@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-21T18:21:00+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevZenFlow</title><subtitle>SRE, development, productivity, health and well being.</subtitle><entry><title type="html">Elon Musk by Walter Isaacson - What Did I Learn?</title><link href="http://localhost:4000/book-reviews/2023/12/21/elon_musk.html" rel="alternate" type="text/html" title="Elon Musk by Walter Isaacson - What Did I Learn?" /><published>2023-12-21T10:26:00+00:00</published><updated>2023-12-21T10:26:00+00:00</updated><id>http://localhost:4000/book-reviews/2023/12/21/elon_musk</id><content type="html" xml:base="http://localhost:4000/book-reviews/2023/12/21/elon_musk.html">&lt;p&gt;I just finished reading &lt;a href=&quot;https://www.amazon.co.uk/Audible-Elon-Musk/dp/B0C62HLWRR/ref=sr_1_3?keywords=Elon+Musk&amp;amp;qid=1703158224&amp;amp;sr=8-3&amp;amp;_encoding=UTF8&amp;amp;tag=devzenflow-21&amp;amp;linkCode=ur2&amp;amp;linkId=fd53d5ed6c8e5bffc9bd818dbe26ae8a&amp;amp;camp=1634&amp;amp;creative=6738&quot;&gt;Elon Musk’s autobiography written by Walter Isaacson&lt;/a&gt;, the author of Steve Jobs’ autobiography, which I also read and thoroughly enjoyed a few years ago. I am not going to recap his life story in this post, but I will go over what I found to be most interesting.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-06T01:01:58+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevZenFlow</title><subtitle>SRE, development, productivity, health and well being.</subtitle><entry><title type="html">Behaviour Model - Staying on the Right Side of Action Curve</title><link href="http://localhost:4000/book-reviews/2024/01/05/behaviour-models.html" rel="alternate" type="text/html" title="Behaviour Model - Staying on the Right Side of Action Curve" /><published>2024-01-05T22:23:00+00:00</published><updated>2024-01-05T22:23:00+00:00</updated><id>http://localhost:4000/book-reviews/2024/01/05/behaviour-models</id><content type="html" xml:base="http://localhost:4000/book-reviews/2024/01/05/behaviour-models.html">&lt;h1 id=&quot;behaviour-models---staying-on-the-right-side-of-action-curve&quot;&gt;Behaviour Models - Staying on the Right Side of Action Curve&lt;/h1&gt;
+
+&lt;p&gt;I am working my way through the book called &lt;em&gt;Tiny Habits: Why Starting Small Makes Lasting Change Easy&lt;/em&gt; by &lt;a href=&quot;https://x.com/bjfogg?s=20&quot;&gt;B.J. Fogg&lt;/a&gt;. First section of the book talks about behavioural models and explains why certain behaviours and habits are incredibly easy to form, whilst others seem nearly impossible.&lt;/p&gt;
+
+&lt;p&gt;The section ends by encouraging the reader to teach the concepts to someone else, which helps solidify their own grasp of the material. I figured, “why not clarify the model by writing a blog post?”. Grab a cup of tea and let’s dive in.&lt;/p&gt;
+
+&lt;h2 id=&quot;shaping-habits&quot;&gt;Shaping Habits&lt;/h2&gt;
+
+&lt;p&gt;Ever thought about why some habits are a breeze to pick up, but others are super tough? There’s a model that can shed some light on this. Take the simple act of brushing your teeth in the morning.&lt;/p&gt;
+
+&lt;p&gt;To make this habit stick, you need three things:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A prompt or reminder to do it.&lt;/li&gt;
+  &lt;li&gt;The motivation to actually want to do it.&lt;/li&gt;
+  &lt;li&gt;The ability or skill to do it right.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In a nutshell, it’s like this:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Behavior = Prompt + Motivation + Ability.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;prompt&quot;&gt;Prompt&lt;/h3&gt;
+&lt;p&gt;Let’s start with the prompt. Without a prompt, the behaviour will most likely not materialise. What’s the typical prompt for brushing the teeth? In my case it’s as follows: &lt;em&gt;“When I walk into the bathroom and look in the mirror, I am reminded to brush my teeth”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;ability&quot;&gt;Ability&lt;/h3&gt;
+&lt;p&gt;Now that I have been prompted to brush my teeth, I need to be able to do it. How easy is it to brush my teeth? A piece of cake. There is a fully charged electric tooth brush in my bathroom with a timer and a number of settings that make the whole process effortless.&lt;/p&gt;
+
+&lt;p&gt;But what if it wasn’t that easy? Let’s consider situations where it might be harder to brush the teeth:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Manual toothbrush&lt;/li&gt;
+  &lt;li&gt;Water supply issues&lt;/li&gt;
+  &lt;li&gt;Travelling&lt;/li&gt;
+  &lt;li&gt;Shared bathroom congestion&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;motivation&quot;&gt;Motivation&lt;/h3&gt;
+&lt;p&gt;Now let’s talk about the last component of this model - motivation. Without any motivation it would be completely pointless to brush my teeth. Hopefully most of us are motivated to brush our teeth so that we can look after our long term health and to maintain hygiene.&lt;/p&gt;
+
+&lt;p&gt;But when might someone not feel like brushing? Two examples come to my mind:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Not understanding importance of dental hygiene. Think about parents nagging their kids to brush teeth every morning and before going in bed.&lt;/li&gt;
+  &lt;li&gt;Person living in a warzone with bombs falling down from the sky where survival is their primary concern.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;lets-visualise-this&quot;&gt;Let’s Visualise This&lt;/h2&gt;
+
+&lt;p&gt;Now that we have a good idea of how this works, let’s plot a few of these behaviours on a graph and try to better understand why some turn into habits whilst other do not.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/docs/assets/images/tiny-habits-action-line.jpg&quot; alt=&quot;LVisualisation of various behaviours in the context of motivation and ability to carry out those behaviours&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;&lt;b&gt;Figure 1. Examples of various behaviours in the context of motivation and ability&lt;/b&gt;&lt;/center&gt;
+&lt;p&gt;&amp;lt;/br&amp;gt;
+Green circles represent behaviours that are highly likely to occur. Orange circles cover behaviours that may not happen and red circles are for behaviours that will most likely not happen and therefore will not turn into habits.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Example 1 - New Year Resolutions.
+    &lt;ul&gt;
+      &lt;li&gt;In January 2024 you are super motivated to go to the gym. You are just about able to exercise and endure the pain, but you are flooded with motivation so you sign up and go to the gym.&lt;/li&gt;
+      &lt;li&gt;Comes February 2024 and your motivation has died down a little bit. Winter blues are kicking in and you start skipping a session here and there.&lt;/li&gt;
+      &lt;li&gt;March 2024 and your motivation is at ground zero. You cancel your gym membership. New habit isn’t formed.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example 2 - Walking the Dog.
+    &lt;ul&gt;
+      &lt;li&gt;Assuming you love your dog (which is a requirement for reading this blog) and you find walking relatively easy, then a walking a dog is a behaviour that will most likely materialise.&lt;/li&gt;
+      &lt;li&gt;However, if it is raining outside and you still need to walk the dog, then your motivation might drop and odds of you not walking the dog might increase. That is unless you absolutely adore your dog (which you  must do to be a decent human being), in which case your motivation will remain high and behaviour will come to fruition.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Example 3 - Last example is very relevant to current month of the year - January. This is a month where everybody makes new year resolutions and heads to the gym. Why is it that most people give up after a few months? Let’s plot this on the graph.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example 4 - Brushing Teeth.
+    &lt;ul&gt;
+      &lt;li&gt;Brushing teeth. Highly motivated and very easy to do.&lt;/li&gt;
+      &lt;li&gt;Brushing teeth in a warzone. Whilst it might be easy to do, the motivation is probably non existent as survival is top priority. Habit is unlikely to form.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stay-on-the-right-side&quot;&gt;Stay on the Right Side&lt;/h2&gt;
+
+&lt;p&gt;So what can I do with this knowledge? In brief, when there is a prompt and ability and motivation variables land you to the right of the dashed line, then you have a good chance of carrying out a set behaviour and eventually turning it into a desired habit. However, if your ability and motivation variables land you to the left of the line, then the odds of you forming a new habit are not good.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/docs/assets/images/tiny-habits-action-line-prompts.jpg&quot; alt=&quot;LVisualisation of prompts succeeding or failing in materialsing desired behaviour based on motivation and ability variables.&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;Figure 2. Prompts in relation to the action line&lt;/center&gt;
+
+&lt;h2 id=&quot;closing-thoughts&quot;&gt;Closing Thoughts&lt;/h2&gt;
+
+&lt;p&gt;What have we learnt? We learnt that behaviours don’t happen without prompt. When there is a prompt, there needs to be enough motivation and ability for behaviour to materialise. If this happens, then the odds are in your favour. If it doesn’t, then you are most likely to fail in forming new habit.&lt;/p&gt;
+
+&lt;p&gt;In the upcoming post I will show you how we can engineer habits and behaviours by tweaking motivation and ability variables to stay on the right side of the action curve. We will also look at how we can use existing prompts as anchors to formulate new good behaviours and drop less helpful ones.&lt;/p&gt;</content><author><name></name></author><category term="book-reviews" /><summary type="html">Behaviour Models - Staying on the Right Side of Action Curve</summary></entry><entry><title type="html">Elon Musk by Walter Isaacson - What Did I Learn?</title><link href="http://localhost:4000/book-reviews/2023/12/21/elon_musk.html" rel="alternate" type="text/html" title="Elon Musk by Walter Isaacson - What Did I Learn?" /><published>2023-12-21T10:26:00+00:00</published><updated>2023-12-21T10:26:00+00:00</updated><id>http://localhost:4000/book-reviews/2023/12/21/elon_musk</id><content type="html" xml:base="http://localhost:4000/book-reviews/2023/12/21/elon_musk.html">&lt;p&gt;I just finished reading &lt;a href=&quot;https://www.amazon.co.uk/Audible-Elon-Musk/dp/B0C62HLWRR/ref=sr_1_3?keywords=Elon+Musk&amp;amp;qid=1703158224&amp;amp;sr=8-3&amp;amp;_encoding=UTF8&amp;amp;tag=devzenflow-21&amp;amp;linkCode=ur2&amp;amp;linkId=fd53d5ed6c8e5bffc9bd818dbe26ae8a&amp;amp;camp=1634&amp;amp;creative=6738&quot;&gt;Elon Musk’s autobiography written by Walter Isaacson&lt;/a&gt;, the author of Steve Jobs’ autobiography, which I also read and thoroughly enjoyed a few years ago. I am not going to recap his life story in this post, but I will go over what I found to be most interesting.&lt;/p&gt;
 
 &lt;h2 id=&quot;reality-distortion-field&quot;&gt;Reality Distortion Field&lt;/h2&gt;
 
