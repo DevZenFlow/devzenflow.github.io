@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Behaviour Model - Staying on the Right Side of Action Curve"
+title:  "Behaviour Models - Staying on the Right Side of Action Curve"
 date:   2024-01-05 22:23:00 +0000
-categories: book-reviews
+categories: productivity
 ---
-
-# Behaviour Models - Staying on the Right Side of Action Curve
 
 I am working my way through the book called _Tiny Habits: Why Starting Small Makes Lasting Change Easy_ by [B.J. Fogg](https://x.com/bjfogg?s=20). First section of the book talks about behavioural models and explains why certain behaviours and habits are incredibly easy to form, whilst others seem nearly impossible. 
 
@@ -23,7 +21,7 @@ To make this habit stick, you need three things:
 3. The ability or skill to do it right.
 
 In a nutshell, it's like this: 
->Behavior = Prompt + Motivation + Ability.
+>Behaviour = Prompt + Motivation + Ability.
 
 ### Prompt 
 Let's start with the prompt. Without a prompt, the behaviour will most likely not materialise. What's the typical prompt for brushing the teeth? In my case it's as follows: _"When I walk into the bathroom and look in the mirror, I am reminded to brush my teeth"_.
@@ -53,10 +51,11 @@ Now that we have a good idea of how this works, let's plot a few of these behavi
 
 ![LVisualisation of various behaviours in the context of motivation and ability to carry out those behaviours](/docs/assets/images/tiny-habits-action-line.jpg)
 <center><b>Figure 1. Examples of various behaviours in the context of motivation and ability</b></center>
-</br>
+
+
+
 Green circles represent behaviours that are highly likely to occur. Orange circles cover behaviours that may not happen and red circles are for behaviours that will most likely not happen and therefore will not turn into habits. 
 
-</br>
 
 - Example 1 - New Year Resolutions. 
   - In January 2024 you are super motivated to go to the gym. You are just about able to exercise and endure the pain, but you are flooded with motivation so you sign up and go to the gym. 
@@ -83,7 +82,7 @@ So what can I do with this knowledge? In brief, when there is a prompt and abili
 
 ![LVisualisation of prompts succeeding or failing in materialsing desired behaviour based on motivation and ability variables.](/docs/assets/images/tiny-habits-action-line-prompts.jpg)
 
-<center>Figure 2. Prompts in relation to the action line</center>
+<center><b>Figure 2. Prompts in relation to the action line</b></center>
 
 ## Closing Thoughts
 
